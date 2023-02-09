@@ -1,6 +1,6 @@
 # 💻 #boracodar - Calculadora
 
-<img src="./img/projeto.png" alt="Imagem do projeto">
+<img src="./img/img-projeto.png" alt="Imagem do projeto" />
 
 <div align="center">
 
